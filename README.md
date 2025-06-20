@@ -8,4 +8,5 @@
 
 ## Tools & Frameworks
 - [Langgraph](https://langchain-ai.github.io/langgraphjs/)
+- [Browser Use](https://browser-use.com/)
 
