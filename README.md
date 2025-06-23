@@ -10,3 +10,7 @@
 - [Langgraph](https://langchain-ai.github.io/langgraphjs/)
 - [Browser Use](https://browser-use.com/)
 
+## Standards
+
+- [MCP](https://modelcontextprotocol.io/)
+- [ONNX](https://onnx.ai/)
