@@ -10,6 +10,9 @@
 - [Langgraph](https://langchain-ai.github.io/langgraphjs/)
 - [Browser Use](https://browser-use.com/)
 
+### UI
+- [Assistant UI](https://www.assistant-ui.com/)
+
 ## Standards
 
 - [MCP](https://modelcontextprotocol.io/)
