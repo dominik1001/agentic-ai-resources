@@ -11,7 +11,8 @@
 - [Browser Use](https://browser-use.com/)
 - [Unmute](https://unmute.sh/)
 - [Naptha](https://naptha.ai/)
-  
+- [Klavis AI](https://www.klavis.ai/)
+-   
 ### UI
 - [Assistant UI](https://www.assistant-ui.com/)
 
