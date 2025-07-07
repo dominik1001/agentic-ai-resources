@@ -9,7 +9,8 @@
 ## Tools & Frameworks
 - [Langgraph](https://langchain-ai.github.io/langgraphjs/)
 - [Browser Use](https://browser-use.com/)
-
+- [Unmute](https://unmute.sh/)
+- 
 ### UI
 - [Assistant UI](https://www.assistant-ui.com/)
 
