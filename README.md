@@ -10,7 +10,8 @@
 - [Langgraph](https://langchain-ai.github.io/langgraphjs/)
 - [Browser Use](https://browser-use.com/)
 - [Unmute](https://unmute.sh/)
-- 
+- [Naptha](https://naptha.ai/)
+  
 ### UI
 - [Assistant UI](https://www.assistant-ui.com/)
 
