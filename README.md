@@ -12,6 +12,7 @@
 - [Unmute](https://unmute.sh/)
 - [Naptha](https://naptha.ai/)
 - [Klavis AI](https://www.klavis.ai/)
+- [CopilotKit](https://www.copilotkit.ai/)
 -   
 ### UI
 - [Assistant UI](https://www.assistant-ui.com/)
